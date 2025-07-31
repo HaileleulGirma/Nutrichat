@@ -91,8 +91,3 @@ MIT License
 ## 🌟 Acknowledgements
 
 Built with LangChain and open-source tools to support document-based QA in the health and nutrition space.
-
-```
-
-Let me know if you'd like badges, screenshots, or a project tagline at the top.
-```
