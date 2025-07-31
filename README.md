@@ -36,7 +36,7 @@ Create a `.env` file in the root directory with the following:
 
 ```env
 OPENAI_API_KEY=your-openai-api-key
-HUGGINGFACEHUB_API_TOKEN=your-huggingface-api-token
+HF_TOKEN=your-huggingface-api-token
 ```
 
 ### 4. Run the application
